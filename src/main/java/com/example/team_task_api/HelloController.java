@@ -9,6 +9,6 @@ public class HelloController {
 
     @GetMapping("/hello")
     public String hello() {
-        return "Hello from Team Task API!";
+        return "Hello from Developer B!";
     }
 }
